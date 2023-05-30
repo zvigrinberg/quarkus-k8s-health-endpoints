@@ -1,0 +1,1 @@
+# quarkus-k8s-health-endpoints
