@@ -1,4 +1,4 @@
-# microprofile-health-quickstart
+# quarkus-k8s-health-endpoints
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
