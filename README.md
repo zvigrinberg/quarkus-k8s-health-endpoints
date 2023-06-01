@@ -1,5 +1,9 @@
 # quarkus-k8s-health-endpoints
 
+Documentation of this repo can be found on the following gist:
+
+[Quarkus HealthChecks Explained](https://gist.github.com/zvigrinberg/93d338903f753d46fa063163f76d476d)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
